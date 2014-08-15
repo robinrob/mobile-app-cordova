@@ -1,0 +1,24 @@
+2014-08-15 02:20:16.090 MobileApp[29122:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-15 02:20:16.116 MobileApp[29122:70b] Unlimited access to network resources
+2014-08-15 02:20:16.118 MobileApp[29122:70b] ERROR: Start Page at 'www/index.html' was not found.
+2014-08-15 02:20:16.120 MobileApp[29122:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-15 02:20:16.495 MobileApp[29122:70b] Resetting plugins due to page load.
+2014-08-15 02:20:16.529 MobileApp[29122:70b] Finished load of: about:blank
+2014-08-15 02:34:53.178 MobileApp[34453:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-15 02:34:53.185 MobileApp[34453:70b] Unlimited access to network resources
+2014-08-15 02:34:53.187 MobileApp[34453:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-15 02:34:53.243 MobileApp[34453:70b] Resetting plugins due to page load.
+2014-08-15 02:34:53.336 MobileApp[34453:70b] Finished load of: file:///Users/msl/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/B08CE245-D96D-4787-8BC4-82ADFB0DEC0B/MobileApp.app/www/index.html
+2014-08-15 02:34:53.375 MobileApp[34453:70b] THREAD WARNING: ['Globalization'] took '22.006104' ms. Plugin should use a background thread.
